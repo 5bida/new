@@ -1,0 +1,3 @@
+C:\Users\WanBida\Desktop\test\UCColor\UCAimColor\x64\Release\UCAimColor.vcxproj.MdMergeInputs.cache
+C:\Users\WanBida\Desktop\test\UCColor\UCAimColor\x64\Release\UCAimColor.vcxproj.cppwinrt_plat.cache
+C:\Users\WanBida\Desktop\test\UCColor\UCAimColor\x64\Release\UCAimColor.vcxproj.cppwinrt_comp.cache
